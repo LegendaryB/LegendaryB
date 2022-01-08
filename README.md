@@ -1,9 +1,5 @@
 ## Hi there I'm Daniel - aka LegendaryB 👋
 
-<div align="center">
-  <img src="https://media.discordapp.net/stickers/874279708878077992.webp?size=160"/>
-</div>
-
 ### ⚡ Tech Stack
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
