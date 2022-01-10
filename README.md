@@ -23,6 +23,6 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LegendaryB&&show_icons=true&theme=vue"/>
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinw&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegendaryB&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
 </details>
