@@ -1,5 +1,14 @@
 ## Hi there I'm Daniel - aka LegendaryB 👋
 
+- Made in Germany 🇩🇪
+- 🏢 I'm currently working as a software developer @ fme AG
+- 🌱 I'm currently learning **Go**
+- 🎮 I'm in love with playing games like Genshin Impact, Counter-Strike Global Offensive, Legends of Runeterra
+- 🗻 I'm in love with Japan - including but not limited to manga and anime  
+
+> “I never would have given you to them. Not for anything. Don’t cry. You’re perfect.”  
+> *Silco* to *Jinx* (Arcane)
+
 ### ⚡ Tech Stack
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -16,6 +25,8 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+### 💬 Connect with me 
 
 <br>
 <details>
