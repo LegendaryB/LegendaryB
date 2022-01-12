@@ -1,6 +1,6 @@
 ## Hi there I'm Daniel - aka LegendaryB 👋
 
-- Made in Germany 🇩🇪
+- 🇩🇪 Made in Germany
 - 🏢 I'm currently working as a software developer @ fme AG
 - 🌱 I'm currently learning **Go**
 - 🎮 I'm in love with playing games like Genshin Impact, Counter-Strike Global Offensive, Legends of Runeterra
