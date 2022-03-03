@@ -1,4 +1,6 @@
-## Hi there I'm Daniel - aka LegendaryB 👋
+## Hi there I'm Daniel - aka LegendaryB 👋 
+
+[![StandWithUkraine](https://img.shields.io/badge/-%23StandWithUkraine%20%F0%9F%87%BA%F0%9F%87%A6-white)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 - 🇩🇪 Made in Germany
 - 🏢 I'm currently working as a software developer @ fme AG
