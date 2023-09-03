@@ -3,7 +3,7 @@
 [![StandWithUkraine](https://img.shields.io/badge/-%23StandWithUkraine%20%F0%9F%87%BA%F0%9F%87%A6-white)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 - 🇩🇪 Made in Germany
-- 🏢 I'm currently working as a software developer @ fme AG
+- 🏢 I'm currently working as a software developer
 - 🌱 I'm currently learning **Go**
 - 🎮 I'm in love with playing games like Genshin Impact, Counter-Strike Global Offensive, Legends of Runeterra
 - 🗻 I'm in love with Japan - including but not limited to manga and anime  
